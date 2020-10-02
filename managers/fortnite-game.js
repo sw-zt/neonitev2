@@ -6,7 +6,6 @@ module.exports = (app) => {
             lastModified: new Date(),
             _locale: 'en-US',
             battleroyalenews: {
-                news: {
                     motds: [
                         {
                             entryType: "Website",
